@@ -1,4 +1,4 @@
-all: Image
+all: Images
 
 .PHONY=clean run-qemu
 
